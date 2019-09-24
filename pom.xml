@@ -67,13 +67,11 @@
 			<groupId>org.apache.derby</groupId>
 			<artifactId>derby</artifactId>
 			<version>${derbyVersion}</version>
-			<scope>provided</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.activemq</groupId>
 			<artifactId>activemq-all</artifactId>
 			<version>${mqVersion}</version>
-			<scope>provided</scope>
 		</dependency>
 		<!-- Xml configuration -->
 		<dependency>
