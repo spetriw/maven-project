@@ -14,7 +14,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<mule.version>3.9.2</mule.version>
 		<mule.tools.version>1.7</mule.tools.version>
-		<derbyVersion>10.13.1.1</derbyVersion>
+		<derbyVersion>10.17.1.0</derbyVersion>
 		<mqVersion>5.15.10</mqVersion>
 		<uid>spetriw_advanced</uid>
 		<pwd></pwd>
